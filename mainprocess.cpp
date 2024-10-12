@@ -1,5 +1,5 @@
 ﻿// mainprocess.cpp : implementation file
-//
+//test
 #include "mainprocess.h"                         // for CMainProc
 #include "../../inc/sglc/base/idailylog.h"           // for IDailyLog
 #include "../../inc/sglc/base/itimemgr.h"           // for IDailyLog
